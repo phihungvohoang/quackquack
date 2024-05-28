@@ -1,0 +1,16 @@
+{
+  "name": "quack",
+  "version": "1.0.0",
+  "description": "quackquack game",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "quack",
+    "quack",
+    "game"
+  ],
+  "author": "Hazel vo",
+  "license": "ISC"
+}
