@@ -21,6 +21,6 @@
 ### Run: node index.js
 
 <div align="center">
-    <img src="[./get_token.png](https://i.imgur.com/sORi4RC.png)">
+    <img src="./download zip on phone.png">
     <br>
 </div>
